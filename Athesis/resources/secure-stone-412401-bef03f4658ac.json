@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "secure-stone-412401",
+  "private_key_id": "bef03f4658acb6316a36c726ce3d46b1efc53525",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCTdgmgjptIP0oa\nAbJTh1h7w/DG9ao21P0VaHmmJQIZac1HgxUamQy4a1oTXsfpt3TEh4QjNnz7yW/Y\nJrAklEEWmoXPhP7t4gLnxfNEI2Ajz6tPeoIFRuHIrpWBQKIGdoPJTKiQVIFrWq+J\npZ7tl0QbWJ3V64Mm4JfXXGWoz5gqiaH6/iPS8l1uZjDQgvUk1gLOEme3ivgRpw4e\nY35YKiMRFEZlOs+sD5IVEFuotNgkixM0GgwyeTWUNRi855GnCX+mUZFWHKCzPikb\nF02dphPOrrh+peZg5z873BbcwlXantuy65CJbITSuhvNCGaL/UEwST8Fhe6go2na\nlpevr8XvAgMBAAECggEARAsmnBjR3H+f0OpRgCunD801cIlxlsWnVtaTs6/GDTX+\nDG6XMWPIM90Nfnyw4M7PqdQijCEbgQ/NdT887lQeyLBa6IwlGl29G3gDLcDpHv03\nvn/4OTkg/Hpa8H6DhVnwq9WcvqTP51q8P1bWRCoVukyk4E5BgZIHXs/69O999rpC\nXZFl0p7SG4as3kJa7yTjy/mGZwJQqeejCk+VbC5/2hZgpQZbtPOm1vx0ToQ8/Tb+\n+yrSe8Q4n3Vzi4YlptRgrVyu5Clrjl5J/wfvqUywHVrEFQlm52KSRFXHx5+Sm1tE\nwjqWN8KHL9LkHMYWHFDSInVeKJQuDVt3kQIEQqISUQKBgQDDC92BbsAEbBv+k10q\nrQ4MBli44ZBZLa1vlpa5IR5hR8Lyhy3R+0YBJMpIzpV27DynqWsocQ945bHzZHVd\not3mTNC4b5MV0MUJz5oKGC7y/G9zcx9u7UYZ+8pBm3og9Wx1xVQuGdWntW1ZFZjU\nAdXj6tU8qEvVUKOGGR9B/Y7yZwKBgQDBiz9ACFeoHVAgidVIstqJlB4yc0RmFhiC\nfDsgbCZLpdQ/Bbgg2lleU9LQ0p4geSjKQB0eoqcMUVed/C9ihmaSmt6ZQERiF49+\nNsIfk1h0btb9dsBg4F797fsgx30HQDeWIB4zFhzpo+GH5NEYD1S1lElY44SfTj4r\nc/piXOerOQKBgDfWi8FkPWCGurT05zUyedUDdB7ppHODWiWaDOhPDO14p9zayklV\nEEN/jtGtIqj7FJpDLERVqcJIr9soJVl7KN+nmhFTD96s99vJLSY6qiYyEo4QpS0S\njIEfzlVd92a8HCLTLThNeRccH4PjZO8830jyj71fyOX2wfm/82zm9Cd9AoGAfONO\niBIaBggMOULXltaaP+aM6b8JZtphLGnfeVdwCqZR4+zb2I8s1bo/MbKGiKvFz2Q5\nphgMtN0ULYSaSvgw3e8DLl6TAbz0QdwxvVBF5rPTFLD5CEof4bkbsBYprnEYrU3C\nTvK462ZtVFQpPF5AKf8qqSn+3REO+tkWuzv53bkCgYBi82GBpG+kVW9vuNGkQNKr\njPbhO00Z3qVvWLhdwfVHomrdONYUrJ3CcGaj+MmqagkS1PgaVXkssE7l4VTQC32i\nigqAw/YH4n7q8tvccnFGgAXWMQLreEBUWkiqgtYWaxyXQGoQTdSND4rPvOR7copC\n1cbyxyu11pqEqf9Axqzfyg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "housewise-crawler@secure-stone-412401.iam.gserviceaccount.com",
+  "client_id": "115201047057427179986",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/housewise-crawler%40secure-stone-412401.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
